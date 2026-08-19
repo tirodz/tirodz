@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/d9/d9/18/d9d9182117f3545dda299a080a589e2d.gif" alt="Header Banner" width="100%" />
 </p>
-
+<div align="center">
 # Hi there, I'm Syf 👋
 
 - 🎓 **Academic Path:** Drilling Engineering & Hydrocarbons Student 
