@@ -26,7 +26,3 @@
 
 * literally nothing
 ---
-
-### 📊 GitHub Stats
-
-![Syf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tirodz&theme=tokyonight)
