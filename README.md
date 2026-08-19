@@ -5,28 +5,26 @@
 # Hi there, I'm Syf 👋
 
 - 🎓 **Academic Path:** Drilling Engineering & Hydrocarbons Student @ Kasdi Merbah Ouargla University
-- 💻 **Tech Interests:** Low-Level Systems, C/C++, Python, Automation & Software Customization
-- ⚙️ **Current Focus:** Hardware/Software Modding, Custom Tools & Building Technical Skills
-- 🍕 **Fun Fact:** When I'm not coding or studying, I'm perfecting 24-hour poolish Neapolitan pizza dough.
+- 🕹️ **Core Passion:** Game Modding, Custom Scripts & Low-Level Tweaking
+- 💻 **Tech Stack:** Python, Java, JavaScript, HTML/CSS
+- 🍕 **Fun Fact:** When I'm not modding or studying, I'm perfecting 24-hour poolish Neapolitan pizza dough.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GoldSrc/Source](https://img.shields.io/badge/Source/GoldSrc-Modding-red?style=for-the-badge&logo=steam&logoColor=white)
 
 ---
 
 ### 📌 What I'm Up To
 
-* 🛢️ Studying drill site dynamics, formation mechanics, and subsurface operations.
-* 🐍 Diving deep into Python automation and C++ programming fundamentals.
-* 🕹️ Experimenting with low-level systems programming, emulation patches, and custom scripts.
-
+* literally nothing
 ---
 
 ### 📊 GitHub Stats
