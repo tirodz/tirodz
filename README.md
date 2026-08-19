@@ -4,7 +4,7 @@
 
 # Hi there, I'm Syf 👋
 
-- 🎓 **Academic Path:** Drilling Engineering & Hydrocarbons Student @ Kasdi Merbah Ouargla University
+- 🎓 **Academic Path:** Drilling Engineering & Hydrocarbons Student 
 - 🕹️ **Core Passion:** Game Modding, Custom Scripts & Low-Level Tweaking
 - 💻 **Tech Stack:** Python, Java, JavaScript, HTML/CSS
 - 🍕 **Fun Fact:** When I'm not modding or studying, I'm perfecting 24-hour poolish Neapolitan pizza dough.
